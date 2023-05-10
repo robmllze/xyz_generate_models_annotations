@@ -1,5 +1,5 @@
 name: xyz_generate_models_annotations
-version: 0.1.0
+version: 0.2.0
 publish_to: none
 environment:
-  sdk: '>=3.0.0-218.1.beta <4.0.0'
+  sdk: '>= 3.0.0 < 4.0.0'
